@@ -1,0 +1,8 @@
+C:\Users\emm\Documents\Projects\AtmProject\AtmProjectTests\bin\Debug\AtmProjectTests.dll
+C:\Users\emm\Documents\Projects\AtmProject\AtmProjectTests\bin\Debug\AtmProjectTests.pdb
+C:\Users\emm\Documents\Projects\AtmProject\AtmProjectTests\bin\Debug\AtmProject.exe
+C:\Users\emm\Documents\Projects\AtmProject\AtmProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\emm\Documents\Projects\AtmProject\AtmProjectTests\bin\Debug\AtmProject.pdb
+C:\Users\emm\Documents\Projects\AtmProject\AtmProjectTests\obj\Debug\AtmProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\emm\Documents\Projects\AtmProject\AtmProjectTests\obj\Debug\AtmProjectTests.dll
+C:\Users\emm\Documents\Projects\AtmProject\AtmProjectTests\obj\Debug\AtmProjectTests.pdb
