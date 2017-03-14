@@ -1,0 +1,14 @@
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\bin\Debug\AtmProject.exe.config
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\bin\Debug\AtmProject.exe
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\bin\Debug\AtmProject.pdb
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\AtmProject.csprojResolveAssemblyReference.cache
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\MainWindow.g.cs
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\App.g.cs
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.cache
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.lref
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\MainWindow.baml
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\AtmProject.g.resources
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\AtmProject.Properties.Resources.resources
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.GenerateResource.Cache
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\AtmProject.exe
+C:\Users\emm\Documents\Projects\AtmProject\AtmProject\obj\Debug\AtmProject.pdb
